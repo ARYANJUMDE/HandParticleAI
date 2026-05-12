@@ -44,3 +44,57 @@ This project uses real-time computer vision to detect hand gestures and control 
 ```bash
 git clone https://github.com/your-username/HandParticleAI.git
 cd HandParticleAI
+```
+
+# Create Virtual Environment
+
+## Windows
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+# Install Dependencies
+
+```bash
+pip install opencv-python mediapipe pygame
+```
+
+# Run Project ▶️
+```bash
+python main.py
+```
+
+# Project Structure 📂
+
+HandParticleAI/
+│
+├── main.py
+
+# Concepts Used 🧠
+``` bash
+This project combines:
+
+Computer Vision
+AI Hand Tracking
+Particle Physics
+Real-Time Rendering
+Gesture Recognition
+Interactive Graphics
+```
+
+# Future Improvements 🔥
+``` bash
+3D particles
+Galaxy swirl mode
+Fire and smoke effects
+Music reactive particles
+Web version using Three.js
+Multi-hand interaction
+GPU acceleration
+```
+
+
+
+
+
